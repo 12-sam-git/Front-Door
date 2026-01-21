@@ -1,0 +1,45 @@
+https://<frontdoor-name>.azurefd.net/app
+✔ Routes to Azure VM
+
+### Test Static Website
+https://<frontdoor-name>.azurefd.net/
+✔ Loads static content from Azure Storage
+
+---
+
+## 🚀 Key Benefits
+
+- Single global endpoint
+- Improved performance using CDN
+- Centralized routing management
+- Scalable and secure architecture
+- Easy integration with WAF (future enhancement)
+
+---
+
+## 📘 Documentation
+Detailed implementation steps and explanations are available in the POC document included in this repository.
+
+---
+
+## 🧠 Learnings
+
+- Understanding of Layer-7 routing
+- Azure Front Door origin and route configuration
+- Static vs dynamic content delivery
+- Real-world enterprise traffic routing design
+
+---
+
+## 🔮 Future Enhancements
+
+- Add Azure WAF
+- Enable HTTPS with custom domain
+- Implement health probes and failover
+- Add Azure CLI / Bicep deployment
+
+---
+
+## 👤 Author
+**Sameeksha Y S**  
+Azure & Cloud Enthusiast | Fresher  
